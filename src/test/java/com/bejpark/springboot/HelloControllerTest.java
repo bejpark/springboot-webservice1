@@ -22,7 +22,7 @@ public class HelloControllerTest {
     private MockMvc mvc;
 
     @Test
-    public void helloo() throws  Exception{ //64p
+    public void hello가_리턴된다() throws  Exception{ //64p
         String hello = "hello";
 
         mvc.perform(get("/hello"))
