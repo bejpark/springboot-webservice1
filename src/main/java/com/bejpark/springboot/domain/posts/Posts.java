@@ -2,7 +2,7 @@ package com.bejpark.springboot.domain.posts;
 
 
 import com.bejpark.springboot.domain.BaseTimeEntity;
-import javafx.geometry.Pos;
+//import javafx.geometry.Pos;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
